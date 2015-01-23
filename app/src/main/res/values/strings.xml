@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Madlibs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="relative">relative</string>
+    <string name="adjective">adjective</string>
+    <string name="name_person">name of person in room</string>
+    <string name="verb_ed">verb ending in \"ed\"</string>
+    <string name="body">body part</string>
+    <string name="verb_ing">verb ending in \"ing\"</string>
+    <string name="name">name</string>
+    <string name="text_button">Show Me!</string>
+    <string name="title_activity_results">Results</string>
+
+</resources>
